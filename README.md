@@ -1,2 +1,0 @@
-# Python
-Criatividade em python
